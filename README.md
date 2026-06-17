@@ -1,9 +1,9 @@
-here<div align="center">
+<div align="center">
   
   <!-- Cyberpunk Aesthetic Header -->
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ2h6ZzR5eHh6eHh6eHh6eHh6eHh6eHh6eHh6eHh6eHh6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTjJp9YV2P4Q1W/giphy.gif" width="100%" alt="Cyberpunk Header">
 
-  <h1>🔥 Sudarshan Kumar | 1433</h1>
+  
   <p><i>"Writing code that doesn't just run, but dominates."</i></p>
 
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=28&duration=2000&pause=500&color=FF00FF&center=true&width=600&lines=I+am+the+Architect.;AI+Power+User.;Full-Stack+Mercenary." alt="Typing SVG" />
