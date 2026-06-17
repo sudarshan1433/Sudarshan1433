@@ -1,12 +1,11 @@
 <div align="center">
   
-  <!-- Neon Cyberpunk Header -->
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJqZ2h6ZzR5eHh6eHh6eHh6eHh6eHh6eHh6eHh6eHh6eHh6JmVwPXYxX2ludGVybmFsX2dpZl9ieV9pZCZjdD1n/l41lTjJp9YV2P4Q1W/giphy.gif" width="100%" />
+  <!-- Stylish Cartoon Coder Animation -->
+  <img src="https://raw.githubusercontent.com/Coders-Clan/Coders-Clan/main/assets/coding.gif" width="450" alt="Cartoon Coder">
+  <br><br>
 
-  <h1>⚡ Sudarshan Kumar | 1433</h1>
-  <p><i>Full-Stack Architect | AI & Automation | Scaling The Future</i></p>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=I+am+the+Architect.;AI+Power+User.;Full-Stack+Mercenary." alt="Typing SVG" />
+  <!-- Typing Effect Without Name -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&duration=3000&pause=1000&color=FF00FF&center=true&vCenter=true&width=500&lines=AI-Assisted+Developer;Prompt+Engineer;Full-Stack+Mercenary;Building+Scalable+Solutions" alt="Typing SVG" />
 </div>
 
 ---
